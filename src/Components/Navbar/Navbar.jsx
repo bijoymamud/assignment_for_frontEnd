@@ -11,7 +11,7 @@ const Navbar = () => {
   };
 
   return (
-    <section className='py-5 bg-red-600/90 text-white'>
+    <section className='py-5 bg-red-600 text-white'>
       <Container>
         <div className='flex items-center justify-between'>
 
