@@ -169,7 +169,7 @@ export default function PopularFood() {
   return (
       <section className="bg-[#FBF7F2]">
             <Container>
-      <section className="md:mb-14 md:pb-14">
+      <section className=" md:pb-14">
         <div className="flex flex-col sm:flex-row justify-between items-end mb-10 md:pt-14 pt-5">
           <div className="text-lg font-medium text-[#BD1F17] mb-4 sm:mb-0">
             <span>■ </span>
