@@ -170,7 +170,7 @@ export default function PopularFood() {
       <section className="bg-[#FBF7F2]">
             <Container>
       <section className="md:mb-14 md:pb-14">
-        <div className="flex flex-col sm:flex-row justify-between items-end mb-10 md:pt-14">
+        <div className="flex flex-col sm:flex-row justify-between items-end mb-10 md:pt-14 pt-5">
           <div className="text-lg font-medium text-[#BD1F17] mb-4 sm:mb-0">
             <span>■ </span>
             <span>Crispy, Every Bite Taste</span>
@@ -202,11 +202,11 @@ export default function PopularFood() {
               >
                 <div className="overflow-hidden relative">
                   <div className="flex items-center justify-center p-4">
-                    <div className="w-full h-48 relative">
+                    <div className="w-full h-40 relative">
                       <img
                         src={card.img}
                         alt={card.title}
-                        className="absolute inset-0 w-full h-full object-cover rounded-lg"
+                        className="absolute inset-0 w-[200px] mx-auto h-full object-cover rounded-lg"
                       />
                     </div>
                   </div>
