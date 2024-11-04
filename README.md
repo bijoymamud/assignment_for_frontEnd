@@ -6,7 +6,7 @@
 
 You can view the live preview of the project here: 
 **Live Link** : [https://restaurantassignment.vercel.app/] 
-**Github Link** :
+**Github Link** : [https://github.com/bijoymamud/assignment_for_frontEnd]
 
 ## Project Overview
 
