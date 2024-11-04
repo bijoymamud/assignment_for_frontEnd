@@ -11,7 +11,7 @@ const Navbar = () => {
   };
 
   return (
-    <section className='py-5 bg-red-600 text-white'>
+    <section className='py-5 bg-red-600 text-white sticky top-0 z-50 shadow-md'>
       <Container>
         <div className='flex items-center justify-between'>
 
@@ -31,11 +31,11 @@ const Navbar = () => {
             </div>
           </div>
 
-          <div className='hidden lg:block'>
+          <Link className='hidden lg:block'>
             <button className='w-[157px] h-[44px] text-[16px] uppercase text-black font-bold bg-[#FEBF00]'>
               Book a table
             </button>
-          </div>
+          </Link>
 
           <div className='lg:hidden'>
             <button onClick={toggleMenu}>
