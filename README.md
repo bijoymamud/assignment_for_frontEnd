@@ -5,8 +5,8 @@
 ## Live Preview
 
 You can view the live preview of the project here: 
-**Live Link** : 
-**Github Link** : 
+**Live Link** : [https://restaurantassignment.vercel.app/] 
+**Github Link** :
 
 ## Project Overview
 
