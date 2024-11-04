@@ -13,7 +13,7 @@ const TableBook = () => {
           }}>
           
           <Container>
-              <div className='md:py-40 md:w-2/4 pt-5 md:pt-0'>
+              <div className='md:py-40 md:w-2/4 pt-5 '>
                   <p className='text-[#BD1F17] font-bold mb-2 text-2xl'>■ Book Now </p>
                   
                   <h1 className='text-6xl font-bold uppercase text-white'>book your table</h1>
